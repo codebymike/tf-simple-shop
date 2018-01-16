@@ -38,11 +38,7 @@ $ composer test
 
 ## Submission
 
-```
-Please upload your finished project folder to Dropbox (or similar) and email a private sharing URL **plus** a copy of your CV
-to mthomas[at]toxicfox.co.uk - we will endevour to respond to all submissions within 24 hours.
-```
-
+Please upload your finished project folder to Dropbox (or similar) and email a private sharing URL **plus** a copy of your CV to mthomas[at]toxicfox.co.uk - we will endevour to respond to all submissions within 24 hours.
 
 ## License
 
